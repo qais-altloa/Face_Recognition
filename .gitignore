@@ -1,0 +1,12 @@
+# Jupyter notebooks and checkpoints
+
+.ipynb_checkpoints/
+
+# Compressed image archive
+images.gz
+
+# Keras folders, model weights, and nn4 file
+keras-facenet_tf23/
+keras-facenet-h5/
+nn4.small2.v7.h5
+*.h5
